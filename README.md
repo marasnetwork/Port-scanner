@@ -1,5 +1,6 @@
 # Port-scanner
 Port scanner written in Python.
+PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY!
 
 VERSION OF PROGRAM:
   v1.0.0
